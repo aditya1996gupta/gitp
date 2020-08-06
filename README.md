@@ -1,7 +1,4 @@
 # gitp
-<<<<<<< Updated upstream
-# gitp
-=======
 
 checkout
 
@@ -12,4 +9,6 @@ rain
 water
 
 now you see me
->>>>>>> Stashed changes
+
+we are 
+
