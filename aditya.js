@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+iam here
+aaa g
+=======
+=======
+>>>>>>> master
 
 let check
 
@@ -10,3 +17,7 @@ aaa
 ww
 dd
 
+<<<<<<< HEAD
+>>>>>>> master
+=======
+>>>>>>> master
