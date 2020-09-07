@@ -1,7 +1,1 @@
-qwerty
-
-sdsadasd
-
-
-
-dSDSD
+const a = 10;
